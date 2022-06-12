@@ -1,3 +1,5 @@
+#include "colorCodeDefines.h"
+#include "colorCodeTranslate.h"
 #include "ColorCodeManual_Generate.h"
 
 
