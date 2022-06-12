@@ -1,3 +1,4 @@
+#include "colorCodeDefines.h"
 #include "colorCodeTranslate.h"
 #include "colorCodeTest.h"
 
