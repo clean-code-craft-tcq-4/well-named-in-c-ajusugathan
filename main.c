@@ -1,7 +1,7 @@
 #include "colorCodeDefines.h"
 #include "colorCodeTranslate.h"
 #include "colorCodeTest.h"
-#include "ColorCodeManual_Generate.h"
+#include "colorCodeManual_Generate.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
