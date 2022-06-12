@@ -1,5 +1,4 @@
 
-#include "colorCodeDefines.h"
 
 extern const char* MajorColorNames[];
 extern const char* MinorColorNames[];
