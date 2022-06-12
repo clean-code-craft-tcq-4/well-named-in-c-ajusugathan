@@ -1,6 +1,6 @@
 #include "colorCodeDefines.h"
 #include "colorCodeTranslate.h"
-#include "ColorCodeManual_Generate.h"
+#include "colorCodeManual_Generate.h"
 
 
 void generateColorCodeReferenceManual(void)
